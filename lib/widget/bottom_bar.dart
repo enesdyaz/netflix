@@ -20,7 +20,7 @@ class Bottom extends StatelessWidget{
               child: Text("home", style: TextStyle(fontSize: 9),),
             ),Tab(
               icon: Icon(
-                Icons.search,
+                Icons.search_outlined,
                 size: 18
               ),
               child: Text("Search", style: TextStyle(fontSize: 9),),
